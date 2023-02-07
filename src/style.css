@@ -1,0 +1,37 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+}
+
+#search-form {
+  margin: 10px;
+}
+
+#search-form > * {
+  font-size: 24px;
+}
+
+#results {
+  border-top: 1px black solid;
+}
+
+#results>details {
+  margin: 10px;
+  font-size: 20px;
+}
+
+#results>table {
+  margin: 10px;
+}
+
+#results table {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+#results table td {
+  border: 1px solid black;
+  padding: 5px;
+}
